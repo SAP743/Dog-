@@ -1,5 +1,5 @@
 # Dog-And-Cat-CNN
-To use this we need to install some library in python:
+**To use this we need to install some library in python:**
 jupyter
 scipy
 tensorflow-gpu/tensorflow 3.5
